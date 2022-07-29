@@ -14,8 +14,8 @@ explaination on the Badges
 
 ![readiness](https://img.shields.io/badge/readiness-initialization-red)
 
-![readiness](https://img.shields.io/badge/readiness-in progress-red)
+![readiness](https://img.shields.io/badge/readiness-in%20progress-red)
 
 ![readiness](https://img.shields.io/badge/readiness-downloadable-red)
 
-![readiness](https://img.shields.io/badge/readiness-fully implemented-red)
+![readiness](https://img.shields.io/badge/readiness-fully%20implemented-red)
