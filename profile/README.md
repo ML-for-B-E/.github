@@ -5,8 +5,12 @@
 
 
 # Badges
-All organization's repositories should contain a version of the following badges. The goal is to improve the readability and understand the use and the level of readiness of the repository 
-explaination on the Badges
+
+## Objectives
+
+All organization's repositories should contain a version of the following badges. The goal is to improve the readability and understand the use and the level of readiness of the repository.
+
+## explaination on the Badges
 
 ![use](https://img.shields.io/badge/use-Summer%20Camp-green) folder to be downloaded by Summer camp's participants for specific course.
 
