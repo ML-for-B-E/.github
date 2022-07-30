@@ -1,5 +1,7 @@
 # ML-for-B-E
 
+## Timetable Info
+
 ## Timetable ML
 ![image](https://user-images.githubusercontent.com/9529168/181918450-24de40e6-e433-4383-8636-7b401e9ab05c.png)
 
