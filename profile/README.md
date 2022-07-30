@@ -8,7 +8,7 @@
 
 ## Objectives
 
-All organization's repositories should contain a version of the following badges. The goal is to improve the readability and understand the use and the level of readiness of the repository.
+All organization's repositories should contain a version of the following badges. The goal is to improve the readability and understand the use and the level of readiness of the repository (main branch).
 
 ## Badges explained
 
@@ -26,6 +26,6 @@ All organization's repositories should contain a version of the following badges
 - README.md
 - setup.py
 
-![readiness](https://img.shields.io/badge/readiness-downloadable-red)
+![readiness](https://img.shields.io/badge/readiness-downloadable-red) the notebooks contain all the information necessary for the intended course
 
-![readiness](https://img.shields.io/badge/readiness-fully%20implemented-red)
+![readiness](https://img.shields.io/badge/readiness-fully%20implemented-red) the repository is downloadable and all the tests (functions and notebooks) are implemented
