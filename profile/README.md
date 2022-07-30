@@ -28,4 +28,4 @@ All organization's repositories should contain a version of the following badges
 
 ![readiness](https://img.shields.io/badge/readiness-downloadable-red) the notebooks contain all the information necessary for the intended course
 
-![readiness](https://img.shields.io/badge/readiness-fully%20implemented-red) the repository is downloadable and all the tests (functions and notebooks) are implemented
+![readiness](https://img.shields.io/badge/readiness-fully%20implemented-red) the repository is downloadable and all the tests (functions and notebooks) are implemented And the (will-be) CI passes
