@@ -2,11 +2,8 @@
 
 ## Timetable Info
 
-## Timetable ML
-![image](https://user-images.githubusercontent.com/9529168/181918450-24de40e6-e433-4383-8636-7b401e9ab05c.png)
-
-## Planning
-![image](https://user-images.githubusercontent.com/9529168/182020266-25b58e59-a54c-4c89-8db3-53dd1d0cb65b.png)
+## Timetable ML and planning
+https://docs.google.com/spreadsheets/d/1AOx12J9GmASa02Xztr7iaI-rxc2h3ToLkP-sPInRov4/edit?usp=sharing
 
 # Badges
 
