@@ -5,6 +5,9 @@
 ## Timetable ML
 ![image](https://user-images.githubusercontent.com/9529168/181918450-24de40e6-e433-4383-8636-7b401e9ab05c.png)
 
+## Planning
+
+![image](https://user-images.githubusercontent.com/9529168/182020072-a9593b83-ca2f-4b8c-8e32-19fecda9e68b.png)
 
 # Badges
 
