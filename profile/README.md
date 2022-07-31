@@ -21,6 +21,7 @@ All organization's repositories should contain a version of the following badges
 ![readiness](https://img.shields.io/badge/readiness-initialization-red) A Summer Camp repository will have this badge if the main branch contains at least the following folders/files:
 
 - notebooks
+- figures
 - requirements
 - src
 - tests
