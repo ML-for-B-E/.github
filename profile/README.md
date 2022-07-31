@@ -13,20 +13,35 @@ All organization's repositories should contain a version of the following badges
 
 ## Badges explained
 
-![use](https://img.shields.io/badge/use-Summer%20Camp-green) folder to be downloaded by Summer camp's participants for specific course.
+![use](https://img.shields.io/badge/use-Summer%20Camp-green) 
+folder to be downloaded by Summer camp's participants for specific course.
 
-![use](https://img.shields.io/badge/use-Project-green) Project developped by or for students on a specific issue
+![use](https://img.shields.io/badge/use-Project-green) 
+Project developped by or for students on a specific issue
 
-![readiness](https://img.shields.io/badge/readiness-initialization-red) A Summer Camp repository will have this badge if the main branch contains at least the following folders/files:
+![readiness](https://img.shields.io/badge/readiness-initialization-red) 
+A repository with the badge ![use](https://img.shields.io/badge/use-Summer%20Camp-green) will have this badge if the main branch contains at least the following folders/files:
 
-- notebooks
-- figures
-- requirements
-- src
-- tests
-- .gitignore
-- README.md
-- setup.py
+```
+xxx-course/
+├── planning_global/
+├── notebooks/              --> this folder contains all the notebooks used for the course and the TD
+│   └── **.ipynb/  
+├── figures/
+│   └── **.png/ (.jpeg)
+├── slides/
+│   └── **.ppt/ (.pdf)
+├── src/
+├── tests/
+│   ├── notebooks/        --> do the notebook run?
+│   └── src/              --> unit testing
+├── requirements/
+│   └── **.txt/ 
+├── .gitignore
+├── README.md
+└── setup.py
+
+```
 
 ![readiness](https://img.shields.io/badge/readiness-downloadable-red) the notebooks contain all the information necessary for the intended course
 
