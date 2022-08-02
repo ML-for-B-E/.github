@@ -24,7 +24,7 @@ A repository with the badge ![use](https://img.shields.io/badge/use-Summer%20Cam
 
 ```
 xxx-course/
-├── planning_global/
+├── planning_global/        (optinal)
 ├── notebooks/              --> this folder contains all the notebooks used for the course and the TD
 │   └── **.ipynb/  
 ├── figures/
@@ -36,7 +36,7 @@ xxx-course/
 │   ├── notebooks/        --> do the notebook run?
 │   └── src/              --> unit testing
 ├── requirements/
-│   └── **.txt/ 
+│   └── **.txt
 ├── .gitignore
 ├── README.md
 └── setup.py
