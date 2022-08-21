@@ -1,5 +1,7 @@
 # ML-for-B-E
 
+![](head_picture.png)
+
 ## Timetable Info
 
 ## Timetable ML and planning
