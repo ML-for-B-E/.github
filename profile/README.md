@@ -28,11 +28,11 @@ A repository with the badge ![use](https://img.shields.io/badge/use-Summer%20Cam
 xxx-course/
 ├── global_planning/        (optional)
 ├── notebooks/              --> this folder contains all the notebooks used for the course and the TD
-│   └── **.ipynb/  
+│   └── **.ipynb 
 ├── figures/
-│   └── **.png/ (.jpeg)
+│   └── **.png (.jpeg)
 ├── slides/
-│   └── **.ppt/ (.pdf)
+│   └── **.tex 
 ├── src/
 ├── tests/
 │   ├── notebooks/        --> do the notebook run?
