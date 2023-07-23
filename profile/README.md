@@ -42,7 +42,7 @@ xxx-course/
 ├── .gitignore
 ├── README.md
 ├── setup.py
-└── CODEOWNERS
+└── CODEOWNERS            --> Contains the people who are responsible that the educational objectives are met
 
 ```
 
