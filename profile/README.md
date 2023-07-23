@@ -41,7 +41,8 @@ xxx-course/
 │   └── **.txt
 ├── .gitignore
 ├── README.md
-└── setup.py
+├── setup.py
+└── CODEOWNERS
 
 ```
 
